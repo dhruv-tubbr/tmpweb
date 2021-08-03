@@ -12,8 +12,8 @@
 [⚫] Add Appropriate Sections in index file  
 
 ### License Details
-Name - [Presento](https://bootstrapmade.com/presento-bootstrap-corporate-template/)
-License - PRO
-Owner - TMP Corporation
-Bootstrap Version - 5.0.1
+Name - [Presento](https://bootstrapmade.com/presento-bootstrap-corporate-template/)  
+License - PRO  
+Owner - TMP Corporation  
+Bootstrap Version - 5.0.1  
 > License Purchased from [BootstrapMade](https://bootstrapmade.com/) 
